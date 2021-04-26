@@ -23,4 +23,4 @@ We have planned using json/xml format for data exchange between data layer and p
 - For data exchange: xml/json
 
 ### 2.   Experimental Design:
-
+![class diagram](./img/experimentdesign.JPG)
